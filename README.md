@@ -1,0 +1,1 @@
+Polars based dataframe processor that handles repeating lines, missing data and more for a stocks dataset.
