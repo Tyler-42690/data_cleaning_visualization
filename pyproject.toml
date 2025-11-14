@@ -7,4 +7,5 @@ requires-python = ">=3.13"
 dependencies = [
     "polars>=1.35.1",
     "streamlit>=1.51.0",
+    "streamlit-tags>=1.2.8",
 ]
